@@ -17,4 +17,4 @@ As ferramentas utilizadas nesse projeto são HTML5, CSS 3, e Bootstrap.
 
 ### deplay ###
 
-A hospedagem do projeto foi feita no Vercel, e está disponível atrasvés do <a 
+A hospedagem do projeto foi feita no Vercel, e está disponível atrasvés do <a href="https://fake-instagram-one.vercel.app/">link</a>. 
